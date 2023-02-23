@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82510142453",
+    "project_id": "personalproject-rpgficha",
+    "storage_bucket": "personalproject-rpgficha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82510142453:android:260e34ef88cf2851575ebc",
+        "android_client_info": {
+          "package_name": "com.alexparrreira.personalproject_rpgficha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82510142453-8rcffqop7q0l2nb9cbb6p0unj6l1bdjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12ViT_jwY8HvfIK-cG_fDmyw29fkb43Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82510142453-8rcffqop7q0l2nb9cbb6p0unj6l1bdjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
